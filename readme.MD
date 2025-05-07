@@ -1,4 +1,11 @@
 # dosa-project
 
 * dosa flour 
-* light oil
+* karam
+* oil 
+
+# panner masala dosa
+* dosa batter 
+* oil
+* panner 
+* garam masala
