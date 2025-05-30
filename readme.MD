@@ -10,5 +10,5 @@
 
 ## egg dosa
 * dosa batter 
-* 1 egg, karam, oil
+* 2 egg, karam, oil
 
