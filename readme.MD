@@ -11,3 +11,11 @@
 ## egg dosa
 * dosa batter 
 * 2 eggs, karam
+
+## panner dosa
+* dosa batter
+* oil
+* panner
+* ghee
+* karam
+* masala dosa
