@@ -17,3 +17,4 @@
 * oil 
 * panner
 * ghee
+* karam
