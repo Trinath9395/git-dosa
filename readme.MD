@@ -14,7 +14,7 @@
 
 ## panner dosa
 * dosa batter
-* oil 
+* oil
 * panner
 * ghee
 * karam
