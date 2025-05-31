@@ -11,3 +11,6 @@
 ## egg dosa
 * dosa batter 
 * 2 eggs, karam
+
+## panner dosa
+* dosa batter
