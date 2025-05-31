@@ -18,3 +18,4 @@
 * panner
 * ghee
 * karam
+* masala dosa
