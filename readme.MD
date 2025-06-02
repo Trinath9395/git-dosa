@@ -27,3 +27,4 @@
 * masala
 * capsicum
 * oil
+* bomabi chutney
