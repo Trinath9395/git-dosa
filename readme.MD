@@ -25,3 +25,4 @@
 ## masala dosa 
 * dosa batter 
 * masala
+* capsicum
